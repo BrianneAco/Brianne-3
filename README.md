@@ -1,3 +1,4 @@
+
 <h1 align="center">✨ Hola, soy Bri 💻🌸</h1>
 <p align="center">
   Analista de Soporte Técnico en <strong>IX Colombia</strong> 💼<br>
@@ -31,11 +32,9 @@
 
 ### 📚 Últimos proyectos
 
-✨ Soporte en IX Colombia  
+✨ Automatización de procesos internos en IX Colombia  
 ✨ Formularios inteligentes conectados a listas de SharePoint  
 ✨ Desarrollo de interfaces web con estilo y funcionalidad
-
-
 
 ---
 
