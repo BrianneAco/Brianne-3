@@ -31,9 +31,11 @@
 
 ### 📚 Últimos proyectos
 
-✨ Automatización de procesos internos en IX Colombia  
+✨ Soporte en IX Colombia  
 ✨ Formularios inteligentes conectados a listas de SharePoint  
 ✨ Desarrollo de interfaces web con estilo y funcionalidad
+
+
 
 ---
 
